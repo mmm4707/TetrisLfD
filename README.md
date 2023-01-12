@@ -27,7 +27,7 @@ If the process you wanna do is take data, you must select in `main_imitation.py`
 ```py
 def main(manual=1): # Manual=1(user data acquisition)
 ```
-dfdfdfdfdfdfdfdfddffdfdf
+dfdfdfdfdfdfdfdfddffdfdf32323
 ## Environment
 To edit Tetris behaviour change contructor params.
 
